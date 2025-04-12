@@ -18,16 +18,16 @@ Problema                             | <img src="https://cdn.jsdelivr.net/gh/dev
 1008 - Salário                       | [Sim](./python/1008.py) | [Sim](./java/Main1008.java)
 1009 - Salário com Bônus             | [Sim](./python/1009.py) | [Sim](./java/Main1009.java)
 1010 - Cálculo Simples               | [Sim](./python/1010.py) | [Sim](./java/Main1010.java)
-1011 - Esfera | |
-1012 - Áreas | |
-1013 - O Maior | |
-1014 - Consumo | |
-1015 - Distância Entre Dois Pontos | |
-1016 - Distância | |
-1017 - Gasto de Combustível | |
-1018 - Cédulas | |
-1019 - Conversão de Tempo | |
-1020 - Idade em Dias | |
+1011 - Esfera                        | [Sim](./python/1011.py) | [Sim](./java/Main1011.java)
+1012 - Áreas                         | [Sim](./python/1012.py) | [Sim](./java/Main1012.java)
+1013 - O Maior                       | [Sim](./python/1013.py) | [Sim](./java/Main1013.java)
+1014 - Consumo                       | [Sim](./python/1014.py) | [Sim](./java/Main1014.java)
+1015 - Distância Entre Dois Pontos   | [Sim](./python/1015.py) | [Sim](./java/Main1015.java)
+1016 - Distância                     | [Sim](./python/1016.py) | [Sim](./java/Main1016.java)
+1017 - Gasto de Combustível          | [Sim](./python/1017.py) | [Sim](./java/Main1017.java)
+1018 - Cédulas                       | [Sim](./python/1018.py) | [Sim](./java/Main1018.java)
+1019 - Conversão de Tempo            | [Sim](./python/1019.py) | [Sim](./java/Main1019.java)
+1020 - Idade em Dias                 | [Sim](./python/1020.py) | [Sim](./java/Main1020.java)
 1021 - Notas e Moedas | |
 1035 - Teste de Seleção 1 | |
 1036 - Fórmula de Bhaskara | |
