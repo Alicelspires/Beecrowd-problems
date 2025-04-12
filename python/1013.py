@@ -1,0 +1,5 @@
+a,b,s=input().split()
+a=int(a)
+b=int(b)
+s=int(s)
+print(f'{max(a,b,s)} eh o maior')
