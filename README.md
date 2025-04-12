@@ -28,10 +28,10 @@ Problema                             | <img src="https://cdn.jsdelivr.net/gh/dev
 1018 - Cédulas                       | [Sim](./python/1018.py) | [Sim](./java/Main1018.java)
 1019 - Conversão de Tempo            | [Sim](./python/1019.py) | [Sim](./java/Main1019.java)
 1020 - Idade em Dias                 | [Sim](./python/1020.py) | [Sim](./java/Main1020.java)
-1021 - Notas e Moedas | |
-1035 - Teste de Seleção 1 | |
-1036 - Fórmula de Bhaskara | |
-1037 - Intervalo | |
+1021 - Notas e Moedas                | [Sim](./python/1021.py) | [Sim](./java/Main1021.java)
+1035 - Teste de Seleção 1            | [Sim](./python/1035.py) | [Sim](./java/Main1035.java)
+1036 - Fórmula de Bhaskara           | [Sim](./python/1036.py) | [Sim](./java/Main1036.java)
+1037 - Intervalo                     | [Sim](./python/1037.py) | [Sim](./java/Main1037.java)
 1038 - Lanche | |
 1040 - Média 3 | |
 1041 - Coordenadas de um Ponto | |
