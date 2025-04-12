@@ -7,17 +7,17 @@ Profile Beecrowd: https://judge.beecrowd.com/pt/profile/1036966
 
 Problema                             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" /> | 
 -------------------------------------|-------------------------|-------------------------|
-1000 - Hello World!                  | [Sim](./python/1000.py) | [Sim](./java/1000.java)
-1001 - Extremamente Básico           | [Sim](./python/1001.py) | [Sim](./java/1001.java)
-1002 - Área do Círculo               | [Sim](./python/1002.py) | [Sim](./java/1002.java)
-1003 - Soma Simples                  | [Sim](./python/1003.py) | [Sim](./java/1003.java)
-1004 - Produto Simples               | [Sim](./python/1004.py) | [Sim](./java/1004.java)
-1005 - Média 1                       | [Sim](./python/1005.py) | [Sim](./java/1005.java)
-1006 - Média 2                       | [Sim](./python/1006.py) | [Sim](./java/1006.java)
-1007 - Diferença                     | [Sim](./python/1007.py) | [Sim](./java/1007.java)
-1008 - Salário                       | [Sim](./python/1008.py) | [Sim](./java/1008.java)
-1009 - Salário com Bônus             | [Sim](./python/1009.py) | [Sim](./java/1009.java)
-1010 - Cálculo Simples               | [Sim](./python/1010.py) | [Sim](./java/1010.java)
+1000 - Hello World!                  | [Sim](./python/1000.py) | [Sim](./java/Main1000.java)
+1001 - Extremamente Básico           | [Sim](./python/1001.py) | [Sim](./java/Main1001.java)
+1002 - Área do Círculo               | [Sim](./python/1002.py) | [Sim](./java/Main1002.java)
+1003 - Soma Simples                  | [Sim](./python/1003.py) | [Sim](./java/Main1003.java)
+1004 - Produto Simples               | [Sim](./python/1004.py) | [Sim](./java/Main1004.java)
+1005 - Média 1                       | [Sim](./python/1005.py) | [Sim](./java/Main1005.java)
+1006 - Média 2                       | [Sim](./python/1006.py) | [Sim](./java/Main1006.java)
+1007 - Diferença                     | [Sim](./python/1007.py) | [Sim](./java/Main1007.java)
+1008 - Salário                       | [Sim](./python/1008.py) | [Sim](./java/Main1008.java)
+1009 - Salário com Bônus             | [Sim](./python/1009.py) | [Sim](./java/Main1009.java)
+1010 - Cálculo Simples               | [Sim](./python/1010.py) | [Sim](./java/Main1010.java)
 1011 - Esfera | |
 1012 - Áreas | |
 1013 - O Maior | |
