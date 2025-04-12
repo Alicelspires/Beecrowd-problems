@@ -6,10 +6,11 @@ Resoluções dos problemas nivel iniciante
 Profile Beecrowd: https://judge.beecrowd.com/pt/profile/1036966
 
 Problema                             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" /> | 
--------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+-------------------------------------|-------------------------|-------------------------|
+1000 - Hello World!                  | [Sim](./python/1000.py) | [Sim](./java/1000.java)
 1001 - Extremamente Básico           | [Sim](./python/1001.py) | [Sim](./java/1001.java)
-1002 - Área do Círculo | |
-1003 - Soma Simples | |
+1002 - Área do Círculo               | [Sim](./python/1002.py) | [Sim](./java/1002.java)
+1003 - Soma Simples                  | [Sim](./python/1003.py) | [Sim](./java/1003.java)
 1004 - Produto Simples | |
 1005 - Média 1 | |
 1006 - Média 2 | |
