@@ -81,36 +81,36 @@ Problema                             | <img src="https://cdn.jsdelivr.net/gh/dev
 1142 - PUM                           |                         | [Sim](./java/Main1142.java)
 1143 - Quadrado e ao Cubo            |                         | [Sim](./java/Main1143.java)
 1144 - Sequência Lógica              |                         | [Sim](./java/Main1144.java)
-1145 - Sequência Lógica 2 | |
-1146 - Sequências Crescentes | |
-1149 - Somando Inteiros Consecutivos | |
-1150 - Ultrapassando Z | |
-1151 - Fibonacci Fácil | |
-1153 - Fatorial Simples | |
-1154 - Idades | |
-1155 - Sequência S | |
-1156 - Sequência S II | |
-1157 - Divisores I | |
-1158 - Soma de Ímpares Consecutivos III | |
-1159 - Soma de Pares Consecutivos | |
-1160 - Crescimento Populacional | |
-1164 - Número Perfeito | |
-1165 - Número Primo | |
-1172 - Substituição em Vetor I | |
-1173 - Preenchimento de Vetor I | |
-1174 - Seleção em Vetor I | |
-1175 - Troca em Vetor I | |
-1176 - Fibonacci em Vetor | |
-1177 - Preenchimento de Vetor II | |
-1178 - Preenchimento de Vetor III | |
-1179 - Preenchimento de Vetor IV | |
-1180 - Menor e Posição | |
-1181 - Linha na Matriz | |
-1182 - Coluna na Matriz | |
-1183 - Acima da Diagonal Principal | |
-1184 - Abaixo da Diagonal Principal | |
-1185 - Acima da Diagonal Secundária | |
-1186 - Abaixo da Diagonal Secundária | |
+1145 - Sequência Lógica 2            |                         | [Sim](./java/Main1145.java)
+1146 - Sequências Crescentes         |                         | [Sim](./java/Main1146.java)
+1149 - Somando Inteiros Consecutivos |                         | [Sim](./java/Main1149.java)
+1150 - Ultrapassando Z               |                         | [Sim](./java/Main1150.java)
+1151 - Fibonacci Fácil               |                         | [Sim](./java/Main1151.java)
+1153 - Fatorial Simples              | [Sim](./python/1153.py) | 
+1154 - Idades                        | [Sim](./python/1154.py) |
+1155 - Sequência S                   |                         | [Sim](./java/Main1155.java)
+1156 - Sequência S II                |                         | [Sim](./java/Main1156.java)
+1157 - Divisores I                   |                         | [Sim](./java/Main1157.java)
+1158 - Soma de Ímpares Consecutivos III |                      | [Sim](./java/Main1158.java)
+1159 - Soma de Pares Consecutivos    |                         | [Sim](./java/Main1159.java)
+1160 - Crescimento Populacional      |                         | [Sim](./java/Main1160.java)
+1164 - Número Perfeito               | [Sim](./python/1164.py) |
+1165 - Número Primo                  | [Sim](./python/1165.py) |
+1172 - Substituição em Vetor I       | [Sim](./python/1172.py) |
+1173 - Preenchimento de Vetor I      | [Sim](./python/1173.py) |
+1174 - Seleção em Vetor I            | [Sim](./python/1174.py) |
+1175 - Troca em Vetor I              | [Sim](./python/1175.py) |
+1176 - Fibonacci em Vetor            |                         | [Sim](./java/Main1176.java)
+1177 - Preenchimento de Vetor II     |                         | [Sim](./java/Main1177.java)
+1178 - Preenchimento de Vetor III    |                         | [Sim](./java/Main1178.java)
+1179 - Preenchimento de Vetor IV     |                         | [Sim](./java/Main1179.java)
+1180 - Menor e Posição               |                         | [Sim](./java/Main1180.java)
+1181 - Linha na Matriz               |                         | [Sim](./java/Main1181.java)
+1182 - Coluna na Matriz              |                         | [Sim](./java/Main1182.java)
+1183 - Acima da Diagonal Principal   |                         | [Sim](./java/Main1183.java)
+1184 - Abaixo da Diagonal Principal  |                         | [Sim](./java/Main1184.java)
+1185 - Acima da Diagonal Secundária  |                         | [Sim](./java/Main1185.java)
+1186 - Abaixo da Diagonal Secundária |                         | [Sim](./java/Main1186.java)
 
 <div align="center">
   
